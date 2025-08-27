@@ -1,6 +1,7 @@
 # qiyuan
-s
+
 https://arxiv.org/pdf/2304.06364
+
 https://github.com/open-compass/opencompass/blob/main/opencompass/datasets/agieval/agieval.py
 
 ## AGIEval介绍
